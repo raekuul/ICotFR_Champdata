@@ -1,0 +1,26 @@
+Last updated: 4/25/2018
+Champion Data
+	Bruenor: Champion
+	Celeste: Life Domain
+	Nayeli: Oath of Devotion
+	Jarlaxle: Socialite (or consolidate, if no meaningful difference)
+	Stoki: Extra Attacks (need this 0-cap, naked)
+	Stoki: Ki Strike (need this 0-cap, naked)
+	Calliope: College of Lore
+	Dhadius: Empowered Orbs
+	Delina: Font of Magic
+	Hitch: More Daggers (91-cap)
+	Nrakk: Branch 1
+	Nrakk: Branch 2 (or consolidate, if no meaningful difference)
+	Makos: Dark Luck
+	Makos: Dark Blessing (or consolidate, if no meaningful difference)
+	Tyril: Moonbeam
+	Tyril: Wild Shape
+	Barrowin: Booming Voice
+	Jamilah: Uncanny Speed
+	Strix: Panic!
+	Arkhan: Chango Restrained
+	Zorbu: Colossus Slayer
+Meta
+	Filename Cleanup
+	Update History spreadsheet

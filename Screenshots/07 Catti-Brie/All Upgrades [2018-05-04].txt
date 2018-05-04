@@ -1,0 +1,42 @@
+Level: 010 - Ability Unlock, Effect #140: Powerful Draw
+Level: 035 - Self DPS Boost 100%
+Level: 075 - Self DPS Boost 100%
+Level: 100 - Ability Unlock: Critical Hit: 10% chance for 100% Extra damage
+Level: 120 - Self DPS Boost 100%
+Level: 140 - All DPS Boost 100%
+Level: 150 - Unlocks Ultimate
+Level: 165 - Self DPS Boost 200%
+Level: 185 - Self DPS Boost 100%
+Level: 200 - Ability Unlock, Effect #141: Mark for Death
+Level: 225 - Self DPS Boost 200%
+Level: 255 - Self DPS Boost 200%
+Level: 275 - Specialisation: Follow-Up: After scoring a critical hit, Catti-brie's next four attacks hit for 100% more damage.
+Level: 275 - Specialisation: In The Zone: Increase critical hit damage bonus by 200%.
+Level: 285 - Increases 'Critical Hit' Crit Chance by 25%
+Level: 300 - Self DPS Boost 100%
+Level: 330 - Self DPS Boost 100%
+Level: 350 - Increases 'Critical Hit' Damage by 100% 
+Level: 375 - Self DPS Boost 100%
+Level: 400 - Increases 'Mark for Death' by 100% 
+Level: 405 - Self DPS Boost 100%
+Level: 445 - Self DPS Boost 100%
+Level: 470 - Self DPS Boost 100%
+Level: 490 - All DPS Boost 100%
+Level: 500 - SpecSpecific: Follow Up - Increases 'Follow-Up' by 50% 
+Level: 500 - SpecSpecific: In the Zone - Increases 'Citical Hit' by 25% 
+Level: 520 - Self DPS Boost 100%
+Level: 545 - Self DPS Boost 200%
+Level: 585 - Self DPS Boost 200%
+Level: 600 - Increases 'Mark for Death' by 50% 
+Level: 630 - Self DPS Boost 200%
+Level: 685 - Self DPS Boost 200%
+Level: 720 - Self DPS Boost 100%
+Level: 755 - Self DPS Boost 100%
+Level: 775 - SpecSpecific: Follow Up - Increases 'Follow-Up' by 50% 
+Level: 775 - SpecSpecific: In the Zone - Increases 'Citical Hit' by 25% 
+Level: 800 - Self DPS Boost 100%
+Level: 840 - Self DPS Boost 100%
+Level: 870 - Increases Ultimate Effect by 100%
+Level: 890 - Self DPS Boost 100%
+Level: 920 - Increases 'Mark for Death' by 100% 
+Level: 945 - Self DPS Boost 100%
